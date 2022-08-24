@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=EdRE1EH_G-4
 
+https://raw.githubusercontent.com/RodrigoMvs123/Using-EBS-Volumes-with-EC2-Instances/main/README.md
+
+
+
 Using EBS Volumes with EC2 Instances 
 
 https://www.youtube.com/watch?v=EdRE1EH_G-4
